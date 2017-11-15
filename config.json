@@ -1,0 +1,21 @@
+{
+    "exp_id": "antisaccade",
+    "name": "Antisaccade",
+    "cognitive_atlas_task_id": "tsk_4a57abb949869",
+    "instructions": "Follow the instructions on the screen.",
+    "url":"https://www.github.com/expfactory-experiments/antisaccade",
+    "description":"antisaccade",
+    "contributors": [
+        "Ian Eisenberg",
+        "Zeynep Enkavi",
+        "Patrick Bissett",
+        "Vanessa Sochat",
+        "Russell Poldrack"
+    ],
+    "publish": "True",
+    "reference": ["http://www.sciencedirect.com/science/article/pii/S001002859990734X",
+          "Condition indicates the location of the target stimulus"],
+    "template": "jspsych",
+    "time": 8
+}
+
